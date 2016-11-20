@@ -129,11 +129,5 @@
         android:text="Hitung"
         android:textColor="#ffebee"/>
 
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:srcCompat="@drawable/a"
-            android:id="@+id/imageView5" />
-
     </LinearLayout>
 </RelativeLayout>
